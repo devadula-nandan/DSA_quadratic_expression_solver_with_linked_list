@@ -1,0 +1,27 @@
+1. First equation is being created:
+
+The data is :
+x ^ 2 + x ^ 1 + 1
+
+2. Second equation is being created:
+
+The data is :
+x ^ 2 + x ^ 1 + 1
+
+Addition_equation: 2 * x ^ 2 + 2 * x ^ 1 + 2
+Multiplication_equation: x ^ 4 + 1 + 2 * x ^ 3 + 3 * x ^ 2 + 2 * x ^ 1
+Sorted_equation: x ^ 4 + 2 * x ^ 3 + 3 * x ^ 2 + 2 * x ^ 1 + 1 
+
+3. Third equation is being created:
+
+The data is :
+3 * x ^ 2 + 4 * x ^ 1
+
+4. Second equation is being created:
+
+The data is :
+x ^ 2 + 1
+
+Addition_equation: 4 * x ^ 2 + 4 * x ^ 1 + 1
+Multiplication_equation: 3 * x ^ 4 + 4 * x ^ 3 + 3 * x ^ 2 + 4 * x ^ 1
+Sorted_equation: 3 * x ^ 4 + 4 * x ^ 3 + 3 * x ^ 2 + 4 * x ^ 1
