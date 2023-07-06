@@ -1,3 +1,4 @@
+<!-- '{"name":"DSA Quadratic Expression Solver","version": 12,"tech": ["Python","DSA","LinkedList"],"tags":["backend"],"snapshots":[]}' -->
 # project title - polynmial function solving using linked lists
 
 # brief about the project
